@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 git init build catalog through the dictionary
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is a middle area. it stores some modification, but it doesn't the last version
