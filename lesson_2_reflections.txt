@@ -3,3 +3,16 @@ git init build catalog through the dictionary
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is a middle area. it stores some modification, but it doesn't the last version
+
+How can you use the staging area to make sure you have one commit per logical change?
+when you git add it ,you must commit it
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if you need some test , you can git a new branch to test it
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it'll be making chaos, the logic of the problem will be confused
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging is quick and fast, manually merging is more precise and slower, when you confront merging conflict, you must merge it manually. 
